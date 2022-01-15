@@ -1,7 +1,7 @@
 {
-    "name": "gruncho/scapeflow",
+    "name": "gruncho/ovum",
     "type": "project",
-    "description": "Scapeflow 2",
+    "description": "Ovum",
     "keywords": [
         "framework",
         "laravel"
